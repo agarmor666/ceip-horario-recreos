@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CEIP Bartolomé Flores - Horarios</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: #2c3e50;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+        }
+
+        .tabs {
+            display: flex;
+            flex-wrap: wrap;
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 5px;
+            margin-bottom: 30px;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .tab {
+            flex: 1;
+            min-width: 120px;
+            padding: 12px 16px;
+            background: transparent;
+            border: none;
+            border-radius: 10px;
+            font-weight: 600;
+            color: #6c757d;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        .tab:hover {
+            background: rgba(52, 152, 219, 0.1);
+            color: #3498db;
+        }
+
+        .tab.active {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .view-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .view-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+
+        .view-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .view-card h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+
+        .view-options {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+        }
+
+        .view-btn {
+            padding: 12px;
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            text-align: center;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .view-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(231, 76, 60, 0.3);
+        }
+
+        .view-btn.horizontal {
+            background: linear-gradient(135deg, #27ae60, #229954);
+        }
+
+        .view-btn.horizontal:hover {
+            box-shadow: 0 8px 20px rgba(39, 174, 96, 0.3);
+        }
+
+        .view-btn.vertical {
+            background: linear-gradient(135deg, #8e44ad, #7d3c98);
+        }
+
+        .view-btn.vertical:hover {
+            box-shadow: 0 8px 20px rgba(142, 68, 173, 0.3);
+        }
+
+        .view-btn.time {
+            background: linear-gradient(135deg, #f39c12, #e67e22);
+        }
+
+        .view-btn.time:hover {
+            box-shadow: 0 8px 20px rgba(243, 156, 18, 0.3);
+        }
+
+        .view-btn.disabled {
+            background: #95a5a6;
+            cursor: not-allowed;
+        }
+
+        .view-btn.disabled:hover {
+            transform: none;
+            box-shadow: none;
+        }
+
+        .important-notes {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            padding: 25px;
+            border-radius: 15px;
+            margin-top: 30px;
+        }
+
+        .important-notes h3 {
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .note-content p {
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+
+        .note-content ul {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+
+        .note-content li {
+            margin-bottom: 8px;
+            font-size: 1rem;
+            line-height: 1.4;
+        }
+
+        .note-content strong {
+            font-weight: 700;
+        }
+
+        .section-title {
+            color: #2c3e50;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                margin: 10px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .tabs {
+                flex-direction: column;
+            }
+
+            .tab {
+                margin-bottom: 5px;
+            }
+
+            .view-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .view-options {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>CEIP BARTOLOMÉ FLORES</h1>
+            <p>Horarios Vigilancia de Recreos</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" onclick="showTab('horarios')">Horarios</button>
+            <button class="tab" onclick="showTab('estadisticas')">Estadísticas</button>
+        </div>
+
+        <div id="horarios" class="tab-content active">
+            <h2 class="section-title">Visualización de Horarios</h2>
+            
+            <div class="view-grid">
+                <div class="view-card">
+                    <h3>👥 Grupos</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_groups_days_vertical.html" class="view-btn vertical">Días ↓</a>
+                        <a href="horario recreo III_groups_time_vertical.html" class="view-btn vertical">Horas ↓</a>
+                    </div>
+                </div>
+
+                <div class="view-card">
+                    <h3>👨‍🏫 Profesores</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_teachers_days_horizontal.html" class="view-btn horizontal">Días →</a>
+                        <a href="horario recreo III_teachers_time_horizontal.html" class="view-btn horizontal">Horas →</a>
+                    </div>
+                </div>
+
+                <div class="view-card">
+                    <h3>⏰ Períodos Libres</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_teachers_free_periods_days_horizontal.html" class="view-btn horizontal">Días →</a>
+                    </div>
+                </div>
+
+                <div class="view-card">
+                    <h3>📅 Día de la Semana</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_subjects_days_horizontal.html" class="view-btn horizontal">Días →</a>
+                    </div>
+                </div>
+
+                <div class="view-card">
+                    <h3>📊 Resumen</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_activities_days_vertical.html" class="view-btn vertical">Días ↓</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="estadisticas" class="tab-content">
+            <h2 class="section-title">Estadísticas del Horario</h2>
+            
+            <div class="view-grid">
+                <div class="view-card">
+                    <h3>👨‍🎓 Estadísticas de Alumnos</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_students_statistics.html" class="view-btn horizontal">Ver Estadísticas</a>
+                    </div>
+                </div>
+
+                <div class="view-card">
+                    <h3>👨‍🏫 Estadísticas de Profesores</h3>
+                    <div class="view-options">
+                        <a href="horario recreo III_teachers_statistics.html" class="view-btn vertical">Ver Estadísticas</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="important-notes">
+            <h3>📝 Información Importante sobre Vigilancia</h3>
+            <div class="note-content">
+                <p><strong>*</strong> Los maestros vigilarán dos días a la semana entre los lunes y los jueves.</p>
+                <p><strong>*</strong> Los viernes irán rotando de forma que se cumpla:</p>
+                <ul>
+                    <li><strong>Zona 1 de Primaria:</strong> 3 maestros</li>
+                    <li><strong>Resto de zonas:</strong> 2 maestros</li>
+                    <li><strong>Zona de Infantil:</strong> 4 maestros</li>
+                </ul>
+                <p><strong>*</strong> El maestro <strong>Jesús Rodríguez Montes</strong> y la maestra de <strong>Audición y Lenguaje</strong> estarán de guardia para cubrir ausencias:</p>
+                <ul>
+                    <li><strong>Jesús:</strong> Lunes, miércoles y jueves</li>
+                    <li><strong>Audición y Lenguaje:</strong> Lunes y miércoles</li>
+                </ul>
+                <p><strong>*</strong> Los días que no haya que sustituir, reforzarán la vigilancia de la zona asignada por la jefatura de estudios.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabName) {
+            // Ocultar todos los contenidos
+            const contents = document.querySelectorAll('.tab-content');
+            contents.forEach(content => {
+                content.classList.remove('active');
+            });
+
+            // Remover clase active de todas las pestañas
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => {
+                tab.classList.remove('active');
+            });
+
+            // Mostrar contenido seleccionado
+            document.getElementById(tabName).classList.add('active');
+
+            // Activar pestaña clickeada
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>
