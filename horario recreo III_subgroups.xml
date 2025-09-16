@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="ZONA I PRIMARIA (PARQUE) Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="1"></Activity>
+        <Teacher name="Vedia Salinas, Carmen Cristín"></Teacher>
+        <Teacher name="Jiménez Torres, María José"></Teacher>
+        <Teacher name="Haro Mansilla, Aladina"></Teacher>
+        <Subject name="Lunes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="6"></Activity>
+        <Teacher name="Torres Molina, Juan Carlos"></Teacher>
+        <Teacher name="Alonso Ramírez, María Desamparados"></Teacher>
+        <Teacher name="Martínez Guerrero, Isabel María"></Teacher>
+        <Subject name="Martes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="2"></Activity>
+        <Teacher name="Vedia Salinas, Carmen Cristín"></Teacher>
+        <Teacher name="Jiménez Torres, María José"></Teacher>
+        <Teacher name="Haro Mansilla, Aladina"></Teacher>
+        <Subject name="Miércoles"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="7"></Activity>
+        <Teacher name="Torres Molina, Juan Carlos"></Teacher>
+        <Teacher name="Alonso Ramírez, María Desamparados"></Teacher>
+        <Teacher name="Martínez Guerrero, Isabel María"></Teacher>
+        <Subject name="Jueves"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="14"></Activity>
+        <Teacher name="Vedia Salinas, Carmen Cristín"></Teacher>
+        <Teacher name="Torres Molina, Juan Carlos"></Teacher>
+        <Teacher name="Jiménez Torres, María José"></Teacher>
+        <Teacher name="Alonso Ramírez, María Desamparados"></Teacher>
+        <Teacher name="Haro Mansilla, Aladina"></Teacher>
+        <Teacher name="Martínez Guerrero, Isabel María"></Teacher>
+        <Subject name="Viernes"></Subject>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="ZONA II (SALIDA TRASERA) Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="21"></Activity>
+        <Teacher name="García Piñero, Isabel María"></Teacher>
+        <Teacher name="Peña Ruiz, María Cruz"></Teacher>
+        <Subject name="Lunes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="27"></Activity>
+        <Teacher name="Tafur Porras, Ángela María"></Teacher>
+        <Teacher name="Flores Ortega, Juana del Pilar"></Teacher>
+        <Subject name="Martes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="23"></Activity>
+        <Teacher name="García Piñero, Isabel María"></Teacher>
+        <Teacher name="Peña Ruiz, María Cruz"></Teacher>
+        <Subject name="Miércoles"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="28"></Activity>
+        <Teacher name="Tafur Porras, Ángela María"></Teacher>
+        <Teacher name="Flores Ortega, Juana del Pilar"></Teacher>
+        <Subject name="Jueves"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="25"></Activity>
+        <Teacher name="García Piñero, Isabel María"></Teacher>
+        <Teacher name="Peña Ruiz, María Cruz"></Teacher>
+        <Teacher name="Tafur Porras, Ángela María"></Teacher>
+        <Teacher name="Flores Ortega, Juana del Pilar"></Teacher>
+        <Subject name="Viernes"></Subject>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="ZONA III (FUENTE-RAMPA) Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="33"></Activity>
+        <Teacher name="Rodríguez Martínez, Irene"></Teacher>
+        <Teacher name="Ramos Muñoz, Patricia"></Teacher>
+        <Subject name="Lunes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="40"></Activity>
+        <Teacher name="Yanguez López-Cano, Rafael"></Teacher>
+        <Teacher name="Baraza Martínez, Josefa"></Teacher>
+        <Subject name="Martes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="34"></Activity>
+        <Teacher name="Rodríguez Martínez, Irene"></Teacher>
+        <Teacher name="Ramos Muñoz, Patricia"></Teacher>
+        <Subject name="Miércoles"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="41"></Activity>
+        <Teacher name="Yanguez López-Cano, Rafael"></Teacher>
+        <Teacher name="González Sanz, Nuria"></Teacher>
+        <Subject name="Jueves"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="35"></Activity>
+        <Teacher name="Rodríguez Martínez, Irene"></Teacher>
+        <Teacher name="Yanguez López-Cano, Rafael"></Teacher>
+        <Teacher name="Ramos Muñoz, Patricia"></Teacher>
+        <Subject name="Viernes"></Subject>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="ZONA IV ( MERENDERO) Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="51"></Activity>
+        <Teacher name="Jimena Quesada, Luis María"></Teacher>
+        <Teacher name="Jiménez Medina, Ana Bella"></Teacher>
+        <Subject name="Lunes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="57"></Activity>
+        <Teacher name="Alconchel Vázquez, Carlos"></Teacher>
+        <Teacher name="Ruiz Arévalo, María"></Teacher>
+        <Subject name="Martes"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="52"></Activity>
+        <Teacher name="Jimena Quesada, Luis María"></Teacher>
+        <Teacher name="Jiménez Medina, Ana Bella"></Teacher>
+        <Subject name="Miércoles"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="58"></Activity>
+        <Teacher name="Alconchel Vázquez, Carlos"></Teacher>
+        <Teacher name="Ruiz Arévalo, María"></Teacher>
+        <Subject name="Jueves"></Subject>
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+        <Activity id="53"></Activity>
+        <Teacher name="Ruiz Arévalo, María"></Teacher>
+        <Teacher name="Alconchel Vázquez, Carlos"></Teacher>
+        <Teacher name="Jimena Quesada, Luis María"></Teacher>
+        <Teacher name="Jiménez Medina, Ana Bella"></Teacher>
+        <Subject name="Viernes"></Subject>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="ZONA I INFANTIL Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+        <Activity id="69"></Activity>
+        <Teacher name="Palomares Padilla, Pilar"></Teacher>
+        <Teacher name="Enjuto Mena, Carolina"></Teacher>
+        <Teacher name="Alonso Yáñez, Inmaculada"></Teacher>
+        <Teacher name="Montoya Morales, María Luisa"></Teacher>
+        <Subject name="Lunes"></Subject>
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+        <Activity id="75"></Activity>
+        <Teacher name="Fernandez Marcos Donate, Raquel"></Teacher>
+        <Teacher name="Guzmán Pérez, Rosa"></Teacher>
+        <Teacher name="Moreno Alonso, Antonia"></Teacher>
+        <Teacher name="Alonso Yáñez, Inmaculada"></Teacher>
+        <Subject name="Martes"></Subject>
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+        <Activity id="70"></Activity>
+        <Teacher name="Palomares Padilla, Pilar"></Teacher>
+        <Teacher name="Enjuto Mena, Carolina"></Teacher>
+        <Teacher name="Guerrero Piñero, Ana Celia"></Teacher>
+        <Teacher name="Montoya Morales, María Luisa"></Teacher>
+        <Subject name="Miércoles"></Subject>
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+        <Activity id="76"></Activity>
+        <Teacher name="Fernandez Marcos Donate, Raquel"></Teacher>
+        <Teacher name="Guzmán Pérez, Rosa"></Teacher>
+        <Teacher name="Moreno Alonso, Antonia"></Teacher>
+        <Teacher name="Alonso Yáñez, Inmaculada"></Teacher>
+        <Subject name="Jueves"></Subject>
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+        <Activity id="71"></Activity>
+        <Teacher name="Palomares Padilla, Pilar"></Teacher>
+        <Teacher name="Enjuto Mena, Carolina"></Teacher>
+        <Teacher name="Fernandez Marcos Donate, Raquel"></Teacher>
+        <Teacher name="Guzmán Pérez, Rosa"></Teacher>
+        <Teacher name="Montoya Morales, María Luisa"></Teacher>
+        <Teacher name="Moreno Alonso, Antonia"></Teacher>
+        <Subject name="Viernes"></Subject>
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="BIBLIOTECA Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="AULA DE CONVIVENCIA Grupo automático Subgrupo automático">
+    <Day name="Lunes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Martes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Miércoles">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Jueves">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+    <Day name="Viernes">
+      <Hour name="11:00-11:30">
+      </Hour>
+      <Hour name="11:30-12:00">
+      </Hour>
+    </Day>
+  </Subgroup>
+</Students_Timetable>

@@ -1,0 +1,1256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fet version="7.4.7">
+  <Mode>Official</Mode>
+  <Institution_Name>CEIP BARTOLOMÉ FLORES</Institution_Name>
+  <Comments>Algún comentario</Comments>
+  <Days_List>
+    <Number_of_Days>5</Number_of_Days>
+    <Day>
+      <Name>Lunes</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Martes</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Miércoles</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Jueves</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Viernes</Name>
+      <Long_Name></Long_Name>
+    </Day>
+  </Days_List>
+  <Hours_List>
+    <Number_of_Hours>2</Number_of_Hours>
+    <Hour>
+      <Name>11:00-11:30</Name>
+      <Long_Name></Long_Name>
+    </Hour>
+    <Hour>
+      <Name>11:30-12:00</Name>
+      <Long_Name></Long_Name>
+    </Hour>
+  </Hours_List>
+  <Subjects_List>
+    <Subject>
+      <Name>Lunes</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Martes</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Miércoles</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Jueves</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Viernes</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+  </Subjects_List>
+  <Activity_Tags_List>
+  </Activity_Tags_List>
+  <Teachers_List>
+    <Teacher>
+      <Name>Alconchel Vázquez, Carlos</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Alonso Ramírez, María Desamparados</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Alonso Yáñez, Inmaculada</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Baraza Martínez, Josefa</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Enjuto Mena, Carolina</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Fernandez Marcos Donate, Raquel</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Flores Ortega, Juana del Pilar</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>García Arnau, Mireia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>García Piñero, Isabel María</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Garrido Morales, Antonio Jesús</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>González Sanz, Nuria</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Guerrero Piñero, Ana Celia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Guzmán Pérez, Rosa</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Haro Mansilla, Aladina</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Jimena Quesada, Luis María</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Jiménez Medina, Ana Bella</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Jiménez Torres, María José</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Martínez Guerrero, Isabel María</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Montoya Morales, María Luisa</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Moreno Alonso, Antonia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Palomares Padilla, Pilar</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Peña Ruiz, María Cruz</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Ramos Muñoz, Patricia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Rodríguez Martínez, Irene</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Rodríguez Montes, Jesús</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Ruiz Arévalo, María</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Tafur Porras, Ángela María</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Torres Molina, Juan Carlos</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Vedia Salinas, Carmen Cristín</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Yanguez López-Cano, Rafael</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Audición y Lenguaje</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+  </Teachers_List>
+  <Students_List>
+    <Year>
+      <Name>ZONA I PRIMARIA (PARQUE)</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>ZONA II (SALIDA TRASERA)</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>ZONA III (FUENTE-RAMPA)</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>ZONA IV ( MERENDERO)</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>ZONA I INFANTIL</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>BIBLIOTECA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>AULA DE CONVIVENCIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+  </Students_List>
+  <Activities_List>
+    <Activity>
+      <Teacher>Vedia Salinas, Carmen Cristín</Teacher>
+      <Teacher>Jiménez Torres, María José</Teacher>
+      <Teacher>Haro Mansilla, Aladina</Teacher>
+      <Subject>Lunes</Subject>
+      <Students>ZONA I PRIMARIA (PARQUE)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>1</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Vedia Salinas, Carmen Cristín</Teacher>
+      <Teacher>Jiménez Torres, María José</Teacher>
+      <Teacher>Haro Mansilla, Aladina</Teacher>
+      <Subject>Miércoles</Subject>
+      <Students>ZONA I PRIMARIA (PARQUE)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>2</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Torres Molina, Juan Carlos</Teacher>
+      <Teacher>Alonso Ramírez, María Desamparados</Teacher>
+      <Teacher>Martínez Guerrero, Isabel María</Teacher>
+      <Subject>Martes</Subject>
+      <Students>ZONA I PRIMARIA (PARQUE)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>6</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Torres Molina, Juan Carlos</Teacher>
+      <Teacher>Alonso Ramírez, María Desamparados</Teacher>
+      <Teacher>Martínez Guerrero, Isabel María</Teacher>
+      <Subject>Jueves</Subject>
+      <Students>ZONA I PRIMARIA (PARQUE)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>7</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Vedia Salinas, Carmen Cristín</Teacher>
+      <Teacher>Torres Molina, Juan Carlos</Teacher>
+      <Teacher>Jiménez Torres, María José</Teacher>
+      <Teacher>Alonso Ramírez, María Desamparados</Teacher>
+      <Teacher>Haro Mansilla, Aladina</Teacher>
+      <Teacher>Martínez Guerrero, Isabel María</Teacher>
+      <Subject>Viernes</Subject>
+      <Students>ZONA I PRIMARIA (PARQUE)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>14</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>García Piñero, Isabel María</Teacher>
+      <Teacher>Peña Ruiz, María Cruz</Teacher>
+      <Subject>Lunes</Subject>
+      <Students>ZONA II (SALIDA TRASERA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>21</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>García Piñero, Isabel María</Teacher>
+      <Teacher>Peña Ruiz, María Cruz</Teacher>
+      <Subject>Miércoles</Subject>
+      <Students>ZONA II (SALIDA TRASERA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>23</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>García Piñero, Isabel María</Teacher>
+      <Teacher>Peña Ruiz, María Cruz</Teacher>
+      <Teacher>Tafur Porras, Ángela María</Teacher>
+      <Teacher>Flores Ortega, Juana del Pilar</Teacher>
+      <Subject>Viernes</Subject>
+      <Students>ZONA II (SALIDA TRASERA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>25</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Tafur Porras, Ángela María</Teacher>
+      <Teacher>Flores Ortega, Juana del Pilar</Teacher>
+      <Subject>Martes</Subject>
+      <Students>ZONA II (SALIDA TRASERA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>27</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Tafur Porras, Ángela María</Teacher>
+      <Teacher>Flores Ortega, Juana del Pilar</Teacher>
+      <Subject>Jueves</Subject>
+      <Students>ZONA II (SALIDA TRASERA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>28</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rodríguez Martínez, Irene</Teacher>
+      <Teacher>Ramos Muñoz, Patricia</Teacher>
+      <Subject>Lunes</Subject>
+      <Students>ZONA III (FUENTE-RAMPA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>33</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rodríguez Martínez, Irene</Teacher>
+      <Teacher>Ramos Muñoz, Patricia</Teacher>
+      <Subject>Miércoles</Subject>
+      <Students>ZONA III (FUENTE-RAMPA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>34</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rodríguez Martínez, Irene</Teacher>
+      <Teacher>Yanguez López-Cano, Rafael</Teacher>
+      <Teacher>Ramos Muñoz, Patricia</Teacher>
+      <Subject>Viernes</Subject>
+      <Students>ZONA III (FUENTE-RAMPA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>35</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Yanguez López-Cano, Rafael</Teacher>
+      <Teacher>Baraza Martínez, Josefa</Teacher>
+      <Subject>Martes</Subject>
+      <Students>ZONA III (FUENTE-RAMPA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>40</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Yanguez López-Cano, Rafael</Teacher>
+      <Teacher>González Sanz, Nuria</Teacher>
+      <Subject>Jueves</Subject>
+      <Students>ZONA III (FUENTE-RAMPA)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>41</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Jimena Quesada, Luis María</Teacher>
+      <Teacher>Jiménez Medina, Ana Bella</Teacher>
+      <Subject>Lunes</Subject>
+      <Students>ZONA IV ( MERENDERO)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>51</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Jimena Quesada, Luis María</Teacher>
+      <Teacher>Jiménez Medina, Ana Bella</Teacher>
+      <Subject>Miércoles</Subject>
+      <Students>ZONA IV ( MERENDERO)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>52</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Ruiz Arévalo, María</Teacher>
+      <Teacher>Alconchel Vázquez, Carlos</Teacher>
+      <Teacher>Jimena Quesada, Luis María</Teacher>
+      <Teacher>Jiménez Medina, Ana Bella</Teacher>
+      <Subject>Viernes</Subject>
+      <Students>ZONA IV ( MERENDERO)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>53</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alconchel Vázquez, Carlos</Teacher>
+      <Teacher>Ruiz Arévalo, María</Teacher>
+      <Subject>Martes</Subject>
+      <Students>ZONA IV ( MERENDERO)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>57</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alconchel Vázquez, Carlos</Teacher>
+      <Teacher>Ruiz Arévalo, María</Teacher>
+      <Subject>Jueves</Subject>
+      <Students>ZONA IV ( MERENDERO)</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>58</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Palomares Padilla, Pilar</Teacher>
+      <Teacher>Enjuto Mena, Carolina</Teacher>
+      <Teacher>Alonso Yáñez, Inmaculada</Teacher>
+      <Teacher>Montoya Morales, María Luisa</Teacher>
+      <Subject>Lunes</Subject>
+      <Students>ZONA I INFANTIL</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>69</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Palomares Padilla, Pilar</Teacher>
+      <Teacher>Enjuto Mena, Carolina</Teacher>
+      <Teacher>Guerrero Piñero, Ana Celia</Teacher>
+      <Teacher>Montoya Morales, María Luisa</Teacher>
+      <Subject>Miércoles</Subject>
+      <Students>ZONA I INFANTIL</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>70</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Palomares Padilla, Pilar</Teacher>
+      <Teacher>Enjuto Mena, Carolina</Teacher>
+      <Teacher>Fernandez Marcos Donate, Raquel</Teacher>
+      <Teacher>Guzmán Pérez, Rosa</Teacher>
+      <Teacher>Montoya Morales, María Luisa</Teacher>
+      <Teacher>Moreno Alonso, Antonia</Teacher>
+      <Subject>Viernes</Subject>
+      <Students>ZONA I INFANTIL</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>71</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Fernandez Marcos Donate, Raquel</Teacher>
+      <Teacher>Guzmán Pérez, Rosa</Teacher>
+      <Teacher>Moreno Alonso, Antonia</Teacher>
+      <Teacher>Alonso Yáñez, Inmaculada</Teacher>
+      <Subject>Martes</Subject>
+      <Students>ZONA I INFANTIL</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>75</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Fernandez Marcos Donate, Raquel</Teacher>
+      <Teacher>Guzmán Pérez, Rosa</Teacher>
+      <Teacher>Moreno Alonso, Antonia</Teacher>
+      <Teacher>Alonso Yáñez, Inmaculada</Teacher>
+      <Subject>Jueves</Subject>
+      <Students>ZONA I INFANTIL</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>76</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+  </Activities_List>
+  <Buildings_List>
+  </Buildings_List>
+  <Rooms_List>
+  </Rooms_List>
+  <Time_Constraints_List>
+    <ConstraintBasicCompulsoryTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsoryTime>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students></Students>
+      <Subject>Lunes</Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>2</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students></Students>
+      <Subject>Martes</Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>2</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students></Students>
+      <Subject>Jueves</Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>2</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students></Students>
+      <Subject>Viernes</Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>2</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students></Students>
+      <Subject>Miércoles</Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>2</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students>ZONA I PRIMARIA (PARQUE)</Students>
+      <Subject></Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students>ZONA II (SALIDA TRASERA)</Students>
+      <Subject></Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students>ZONA III (FUENTE-RAMPA)</Students>
+      <Subject></Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students>ZONA IV ( MERENDERO)</Students>
+      <Subject></Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:30-12:00</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivitiesPreferredStartingTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher></Teacher>
+      <Students>ZONA I INFANTIL</Students>
+      <Subject></Subject>
+      <Activity_Tag></Activity_Tag>
+      <Duration></Duration>
+      <Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+      <Preferred_Starting_Time>
+        <Day>Lunes</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Martes</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Miércoles</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Jueves</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Preferred_Starting_Time>
+        <Day>Viernes</Day>
+        <Hour>11:00-11:30</Hour>
+      </Preferred_Starting_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivitiesPreferredStartingTimes>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>1</Activity_Id>
+      <Day>Lunes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>2</Activity_Id>
+      <Day>Miércoles</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>6</Activity_Id>
+      <Day>Martes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>7</Activity_Id>
+      <Day>Jueves</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>14</Activity_Id>
+      <Day>Viernes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>21</Activity_Id>
+      <Day>Lunes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>23</Activity_Id>
+      <Day>Miércoles</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>25</Activity_Id>
+      <Day>Viernes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>27</Activity_Id>
+      <Day>Martes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>28</Activity_Id>
+      <Day>Jueves</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>33</Activity_Id>
+      <Day>Lunes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>34</Activity_Id>
+      <Day>Miércoles</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>35</Activity_Id>
+      <Day>Viernes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>40</Activity_Id>
+      <Day>Martes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>41</Activity_Id>
+      <Day>Jueves</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>51</Activity_Id>
+      <Day>Lunes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>52</Activity_Id>
+      <Day>Miércoles</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>53</Activity_Id>
+      <Day>Viernes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>57</Activity_Id>
+      <Day>Martes</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>58</Activity_Id>
+      <Day>Jueves</Day>
+      <Hour>11:30-12:00</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>69</Activity_Id>
+      <Day>Lunes</Day>
+      <Hour>11:00-11:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>70</Activity_Id>
+      <Day>Miércoles</Day>
+      <Hour>11:00-11:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>71</Activity_Id>
+      <Day>Viernes</Day>
+      <Hour>11:00-11:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>75</Activity_Id>
+      <Day>Martes</Day>
+      <Hour>11:00-11:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>76</Activity_Id>
+      <Day>Jueves</Day>
+      <Hour>11:00-11:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+  </Time_Constraints_List>
+  <Space_Constraints_List>
+    <ConstraintBasicCompulsorySpace>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsorySpace>
+  </Space_Constraints_List>
+  <Timetable_Generation_Options_List>
+  </Timetable_Generation_Options_List>
+</fet>

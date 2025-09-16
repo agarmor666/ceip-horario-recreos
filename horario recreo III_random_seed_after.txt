@@ -1,0 +1,7 @@
+﻿La generación finalizó a las: 16/9/25 10:08
+
+La semilla aleatoria al final de la generación es:
+	s10=3869902297, s11=4197389526, s12=946820744,
+	s20=2728317570, s21=31022777, s22=95982320.
+
+Este archivo fue automáticamente generado por FET 7.4.7.
